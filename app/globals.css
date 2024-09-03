@@ -86,3 +86,13 @@
     @apply bg-background text-foreground;
   }
 }
+
+
+.ProseMirror ul {
+  padding: 0 1rem;
+  list-style: disc !important;
+}
+.ProseMirror ol {
+  padding: 0 2rem;
+  list-style: decimal !important;
+}
